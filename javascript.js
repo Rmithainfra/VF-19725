@@ -17,7 +17,7 @@ var viewer = pannellum.viewer('panorama', {
             "maxPitch": 25,
             "yaw":-110,
             "compass":true,
-            "northOffset":0
+            "northOffset":110
         },
   
         "image-2": {
@@ -30,7 +30,7 @@ var viewer = pannellum.viewer('panorama', {
         "maxPitch": 25,
         "yaw": -130,
         "compass":true,
-        "northOffset":0
+        "northOffset":130
       },
 
       "image-3": {
@@ -43,7 +43,7 @@ var viewer = pannellum.viewer('panorama', {
         "maxPitch": 25,
         "yaw": -130,
         "compass":true,
-        "northOffset":0
+        "northOffset":130
       },
 
       "image-4":{
@@ -56,7 +56,7 @@ var viewer = pannellum.viewer('panorama', {
         "maxPitch": 25,
         "yaw": -120,
         "compass":true,
-        "northOffset":0
+        "northOffset":120
         
       }, 
     }
